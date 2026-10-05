@@ -1,0 +1,6 @@
+name : barun
+age : 38
+city : siliguri
+favourite_color : white
+favourite_drink : black coffee
+hobby : teaching

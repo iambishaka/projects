@@ -1,0 +1,18 @@
+Name: bishaka
+Age: 21
+City: darjeeling
+Contact: 456123789
+Gender: f
+Experience: 2
+Name: barun
+Age: 30
+City: siliguri
+Contact: 456123789
+Gender: m
+Experience: 5
+Name: Bishaka Gurung 
+Age: 25
+City: sikkim
+Contact: 8878765789
+Gender: f
+Experience: 4

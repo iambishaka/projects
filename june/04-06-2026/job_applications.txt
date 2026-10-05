@@ -1,0 +1,21 @@
+Name: bishaka
+Age: 18
+City: delhi
+Contact: 749274273
+Gender: f
+Experience: 2
+-----------------
+Name: Barun
+Age: 30
+City: Siliguri
+Contact: 9832398323
+Gender: M
+Experience: 5
+-----------------
+Name: Tej
+Age: 18
+City: Gantok
+Contact: 9832384521
+Gender: m
+Experience: 1
+-----------------
